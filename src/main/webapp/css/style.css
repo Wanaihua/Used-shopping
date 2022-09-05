@@ -1,0 +1,12 @@
+.ellipsis{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;}
+.center{text-align:center;}
+.fl{float:left;}
+.fr{float:right;}
+.admin_login{width:300px;height:auto;overflow:hidden;margin:10% auto 0 auto;padding:40px;box-shadow:0 -15px 35px #0080ff;border-radius:5px;}
+.admin_login dd{margin:5px 0;height:42px;overflow:hidden;position:relative;}
+.admin_login dd .login_txtbx{font-size:14px;padding:8px 5%;width:100%;text-indent:2em;border:none;background:#6495ed;color:white;}
+.admin_login dd .login_txtbx:focus{background:#87cefa;}
+.admin_login dd .submit_btn{width:100%;height:42px;border:none;font-size:16px;background:#2894ff;color:#f8f8f8;}
+.admin_login dd .submit_btn:hover{background:#0080ff;}
+.admin_login dd p{color:#0080ff;font-size:12px;text-align:center;margin:5px 0;}
+
