@@ -16,7 +16,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	int yes=Integer.parseInt(request.getAttribute("yes").toString());
 %>
 <body>
-<jsp:forward page="${pageContext.request.contextPath}/seeuser.jsp">
+<jsp:forward page="${pageContext.request.contextPath}/pages/seeuser.jsp">
 	<jsp:param value="<%=id %>" name="useid"/>
 	<jsp:param name="yes" value="<%=yes%>"/>
 </jsp:forward>

@@ -3,8 +3,8 @@
 <%@ page import="com.gx.domain.Goods"%>
 <%@ page import="com.gx.dao.Link"%>
 <%
-String path = request.getContextPath();
-String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
+    String path = request.getContextPath();
+    String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
 %>
 <base href="<%=basePath %>">
 <!--首页  -->
@@ -38,7 +38,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 </style>
 </head>
 <body>
-<jsp:include page="${pageContext.request.contextPath}/topbar.jsp"/>
+<jsp:include page="${pageContext.request.contextPath}/pages/topbar.jsp"/>
 <div id="headerWrap">
     <div id="homeWrap" class="wrapper">
         <div id="brand_top_banner" style="display:none"></div>
@@ -64,7 +64,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         </div>
         <ul class="navcon" id="nav" style="margin-top:20px">
             <li id="homeNav" class="navBg fl">
-            	<a class="navWit" href="index/index.jsp" target="_self">首页</a>
+            	<a class="navWit" href="pages/index.jsp" target="_self">首页</a>
             </li>
         </ul>
     </div>

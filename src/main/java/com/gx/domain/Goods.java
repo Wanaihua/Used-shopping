@@ -25,25 +25,22 @@ public class Goods {
 	public void setNname(String nname) {
 		this.nname = nname;
 	}
-
+	private String nname;
+	private double price;
+	private String classify;
+	private String ddescribe;
 	public double getPrice() {
 		return price;
 	}
-
 	public void setPrice(double price) {
 		this.price = price;
 	}
-
 	public String getClassify() {
 		return classify;
 	}
 	public void setClassify(String classify) {
 		this.classify = classify;
 	}
-	private String nname;
-	private double price;
-	private String classify;
-	private String ddescribe;
 	public String getDdescribe() {
 		return ddescribe;
 	}

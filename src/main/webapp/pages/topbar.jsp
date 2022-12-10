@@ -11,8 +11,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <head>
 <meta charset="utf-8"/>
 <title>二手网，你要的二货在此！</title>
-<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}../css/topbar.css">
-<script src="${pageContext.request.contextPath}../js/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/topbar.css">
+<script src="${pageContext.request.contextPath}/js/jquery.min.js"></script>
 
 </head>
 <body marginwidth="0" marginheight="0">

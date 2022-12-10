@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ca8889-db7d-400c-8eb1-b95fcf1111a0" name="Changes" comment="" />
+    <list default="true" id="f1ca8889-db7d-400c-8eb1-b95fcf1111a0" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gx/domain/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gx/domain/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/index2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/index_button.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/index_button.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/index_seek.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/index_seek.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/index_top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/index_top.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/topbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/topbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Firstssm.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Firstssm.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Firstssm/pages/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Firstssm/pages/index2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Firstssm/pages/index_button.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Firstssm/pages/index_button.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Firstssm/pages/index_seek.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Firstssm/pages/index_seek.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Firstssm/pages/topbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Firstssm/pages/topbar.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,8 +53,16 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/index_top.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/topbar.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/gx/controller/AccountController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/index_button.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/index1.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/user_login.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -58,16 +80,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GIT/Git/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38390803" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -285,8 +308,39 @@
       <workItem from="1659490756414" duration="1588000" />
       <workItem from="1659492549811" duration="828000" />
       <workItem from="1659500854328" duration="5929000" />
-      <workItem from="1662365773792" duration="1991000" />
+      <workItem from="1662365773792" duration="2756000" />
+      <workItem from="1662375225676" duration="101000" />
+      <workItem from="1662375650234" duration="740000" />
+      <workItem from="1662376481258" duration="30000" />
+      <workItem from="1662376687526" duration="27000" />
+      <workItem from="1662694990809" duration="8000" />
+      <workItem from="1663310244933" duration="143000" />
+      <workItem from="1663313022058" duration="18000" />
+      <workItem from="1663575943437" duration="326000" />
+      <workItem from="1663638252642" duration="189000" />
+      <workItem from="1663643074100" duration="200000" />
+      <workItem from="1663643548896" duration="76000" />
+      <workItem from="1663643939531" duration="89000" />
+      <workItem from="1665907402449" duration="14000" />
+      <workItem from="1665908402653" duration="3702000" />
+      <workItem from="1665912377518" duration="89000" />
+      <workItem from="1665916334547" duration="1190000" />
+      <workItem from="1665917829366" duration="904000" />
+      <workItem from="1665989842976" duration="5000" />
+      <workItem from="1668310555714" duration="280000" />
+      <workItem from="1668318397499" duration="2976000" />
+      <workItem from="1669357762477" duration="3176000" />
+      <workItem from="1669378966494" duration="6000" />
+      <workItem from="1670652612278" duration="1930000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1662368099184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662368099184</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,12 +356,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/../../GIT/Git/bin/git.exe" />
     </ignored-roots>
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

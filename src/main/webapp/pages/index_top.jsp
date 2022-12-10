@@ -54,7 +54,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         <div id="brand_top_banner" style="display:none"></div>
         <div id="header">
             <div id="headerinside">
-                <a href="pages/index_top.jsp?id=<%=id%>" target="_self" id="logo">
+                <a href="pages/index_top.jsp?useid=<%=id%>" target="_self" id="logo">
 	                <img id="bigLogo" src="image/logo-l.png" style="width:70px;" alt="" title="logo" />
 	               <img id="miniLogo" src="image/logo-l.png" style="width:40px;height:20px"alt="" title="logo" />
                 </a><div id="brand_mini_banner" class="search-no" style="display:none"></div>
@@ -74,7 +74,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         </div>
         <ul class="navcon" id="nav" style="margin-top:20px">
             <li id="homeNav" class="navBg fl">
-            	<a class="navWit" href="/pages/index_top.jsp?id=<%=id%>" target="_self">首页</a>
+            	<a class="navWit" href="/pages/index_top.jsp?useid=<%=id%>" target="_self">首页</a>
             </li>
         </ul>
     </div>
